@@ -5,7 +5,9 @@ PHISHING_KEYWORDS = [
     "password",
     "act now",
     "urgent",
-    "your account will be closed"
+    "your account will be closed",
+    "emergency",
+    "transfer funds"
 ]
 
 def check_phishing(message: str):
