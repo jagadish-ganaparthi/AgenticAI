@@ -1,3 +1,4 @@
+
 # AgenticAI Documentation
 
 ## Project Overview
@@ -65,3 +66,10 @@ The AgenticAI architecture is centered around a multi-tool cybersecurity agent t
 
 ## Agent Usage of the ADK Framework with Gemini 2.5 Flash Model
 The AgenticAI leverages the ADK framework to facilitate interaction with the Gemini 2.5 Flash model, enabling robust and efficient threat detection and response capabilities. Through this integration, the agent can dynamically access advanced analysis tools and algorithms, ensuring optimal performance in identifying and mitigating threats.
+
+#How ADK web works
+<img width="1855" height="991" alt="image" src="https://github.com/user-attachments/assets/435646b0-ccc8-42d7-9448-659673061525" />
+
+Event level tracing
+<img width="1852" height="949" alt="image" src="https://github.com/user-attachments/assets/b32cf6be-8c78-4a20-99aa-91032aaf6a9f" />
+
